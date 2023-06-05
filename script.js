@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 const BooksContainer = document.querySelector('.books-list');
 const bookTitle = document.querySelector('.bookTitle');
 const bookAuthor = document.querySelector('.bookAutor');

@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <h3><b>Capstone Project: Module 1 - HTML, CSS, JS</b></h3>
+  <h3><b>Awesome Books</b></h3>
 
 </div>
 
@@ -32,7 +32,7 @@
 
 # 📖 [Awesome-Books- HTML, CSS, JS] <a name="about-project"></a>
 
-This is the first capstone project 
+This is the first project of Module 2
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -57,7 +57,7 @@ This is the first capstone project
 
 > Key features of the application.
 
-- **[responsiveness]**
+- **[DynamicPage]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,6 +127,11 @@ To run tests, run the following command:
 - Twitter: [@twitterhandle](https://twitter.com/maths29)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/iwu-john-b92b01148/ )
 
+👤 binyam tegene
+
+- GitHub: [@githubhandle](https://github.com/Log-benjamin?tab=repositories)
+- Twitter: [@twitterhandle](https://twitter.com/@binyam_tegene)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/binyam-tegene-4b77ab265)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

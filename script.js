@@ -2,7 +2,7 @@ const BooksContainer = document.querySelector('.books-list');
 const bookTitle = document.querySelector('.bookTitle');
 const bookAuthor = document.querySelector('.bookAutor');
 const form = document.querySelector('form');
-const bookDiv = document.createElement('div');
+
 
 let BooksList = [];
 
@@ -12,7 +12,9 @@ const booksInStore = localStorage.getItem('BooksList');
     }
 
 function createBooksLst () {
+    BooksContainer.innerHTML = '';
     BooksList.forEach((book, index) => {
+    const bookDiv = document.createElement('div');
         bookDiv.innerHTML = `
         <ul>
             <li>${book.title}</li>
@@ -54,4 +56,4 @@ function removeBook(index) {
 
 form.addEventListener('submit', addBook);
 
-// createBooksLst();
+createBooksLst();

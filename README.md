@@ -102,10 +102,6 @@ npm install
 
 Then open the live server or open the `index.html` file with your browser
 
-### Usage
-
-- this is the portfolio project I'll use to update more changes.
-
 ### Run tests
 
 To run tests, run the following command:
